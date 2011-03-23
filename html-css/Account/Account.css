@@ -1,0 +1,139 @@
+h2 { color: #aba076;  margin-bottom: 10px; font-family: Arial, Helvetica, sans-serif; font-size: 16px;}
+h2 span { color: #769fb9; }
+
+.main { height: 600px; } 
+
+.map-box-middle { font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #7f7c6b;  }
+.map-box-middle p { margin: 10px; }
+
+.account-form td { color: #769FB9; padding: 3px; line-height: 25px; }
+.account-form{
+	background:url(/images/account-divider.png) no-repeat;  background-position: 395px 35px ;
+}
+
+.map-box-middle .error { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #ff8622; padding: 10px 0px; }
+
+
+.account-form .save-changes-button {
+    border: 0;
+	width: 110px;
+	height: 27px;
+	background: url(/images/save-changes-button.png) no-repeat  top left;
+	float: left;
+	
+}
+
+.account-form .save-changes-button:hover {
+	background: url(/images/save-changes-button.png) no-repeat  bottom left;
+}
+
+
+.deleteconf .ok-button {
+    border: 0;
+	width: 50px;
+	height: 27px;
+	background: url(/images/ok-button.png) no-repeat  top left;
+	float: left;
+	margin:32px 0 0 224px;
+	cursor:pointer;
+}
+
+.deleteconf .ok-button:hover {
+	background: url(/images/ok-button.png) no-repeat  bottom left;
+}
+
+
+.account-form .cancel-button {
+    border: 0;
+	width: 70px;
+	height: 27px;
+	background: url(/images/cancel-button.png) no-repeat 0 0 transparent;
+	text-indent: 99999px;
+	cursor: pointer;
+	float: left;
+	margin: 0 8px 0 0;
+}
+
+.account-form .cancel-button:hover {
+	background: url(/images/cancel-button.png) no-repeat 0 bottom;
+}
+
+.divider{
+	float: left;
+	width: 10px;
+	height: 100px;
+}
+
+.account-info label{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #769FB9;
+	font-size: 14px;
+	margin: 0 0 0 3px;
+	font-weight: bold;
+}
+
+.deleteconf{
+	background-color: white;
+	width: 350px;
+	height: 130px;
+	border:5px solid #A9D3F7;
+	padding: 20px;
+}
+.closeDel  {width:15px; height:14px; background:url(../images/x.jpg); display:block; float:right; margin:20px 30px 0 0; cursor:pointer;}
+.deleteconf p{
+	color: #7F7C6B;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	padding:30px 0 0 0;
+}
+
+
+.cancelbutton{
+width:66px; 
+height:27px; 
+margin:32px 5px 10px 0; 
+background:url(../images/cancel-button.png) no-repeat 0 0; 
+text-indent:-99999px; 
+font-size:0; 
+cursor:pointer; 
+float:right;
+vertical-align: bottom;
+}
+
+.cancelbutton:hover{
+background:url(../images/cancel-button.png) no-repeat bottom;
+}
+
+.form-wrapper{
+background-color: white;
+height: 300px;
+width: 580px;
+}
+
+#update-form  {font-family:Arial, Helvetica, sans-serif;}
+#update-form .description {width:610px; height:40px; background:url(../images/description-field.png) repeat-x; margin:5px 0 0 0; border:1px solid #B9B9B9;}
+#update-form .submitBtn {width:66px; height:27px; margin:32px 4px 10px 0px; background:url(../images/submit-button.png) no-repeat 0 0; text-indent:-99999px; font-size:0; cursor:pointer; float:right}
+#update-form .submitBtn:hover {background:url(../images/submit-button.png) no-repeat 0 -27px;}
+#update-form .cancelBtn {width:66px; height:27px; margin:32px 5px 10px 0; background:url(../images/cancel-button.png) no-repeat 0 0; text-indent:-99999px; font-size:0; cursor:pointer; float:right}
+#update-form .cancelBtn:hover {background:url(../images/cancel-button.png) no-repeat 0 -27px;}
+#update-form #errors {width:500px; padding:20px 0; border:5px solid #A9D3F7; background:#FFFFFF; position:absolute; top:150px; left:200px; display:none; font-size:12px;}
+#update-form #errors .x {width:15px; height:14px; background:url(../images/x.jpg); display:block; float:right; margin:-10px 10px 0 0; cursor:pointer;}
+#update-form #errors p {color:#FF0000; padding:3px 30px;}
+#update-form .success {text-align:center; padding:50px 0;}
+#update-form .close  {width:15px; height:14px; background:url(../images/x.jpg); display:block; float:right; margin:10px 10px 0 0; cursor:pointer;}
+.blue-box {background: url(../images/blue-box-bg.png) no-repeat; background-position: 0 180px;}
+
+.add-new-accomodation{
+width:168px; 
+height:27px; 
+margin:10px 5px 10px 0; 
+background:url(../images/add-new-accomodation-button.png) no-repeat 0 0; 
+font-size:0; 
+cursor:pointer; 
+float:right;
+vertical-align: bottom;
+}
+
+.add-new-accomodation:hover{
+background:url(../images/add-new-accomodation-button.png) no-repeat bottom;
+}

@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<settings product="vbulletin">
+	<setting varname="templateversion">
+		<value>4.1.2</value>
+	</setting>
+	<setting varname="friendlyurl">
+		<value>1</value>
+	</setting>
+	<setting varname="socnet">
+		<value>63</value>
+	</setting>
+	<setting varname="forumhome">
+		<value>forum</value>
+	</setting>
+	<setting varname="friendlyurl_canonical">
+		<value>1</value>
+	</setting>
+	<setting varname="friendlyurl_canonical_registered">
+		<value>1</value>
+	</setting>
+	<setting varname="friendlyurl_unicode">
+		<value>0</value>
+	</setting>
+	<setting varname="default_route_segment">
+		<value>content</value>
+	</setting>
+	<setting varname="friendlyurl_ncrencode">
+		<value>0</value>
+	</setting>
+	<setting varname="reqbirthday">
+		<value>0</value>
+	</setting>
+	<setting varname="editormodes">
+		<value><![CDATA[a:3:{s:2:"fe";i:2;s:2:"qr";i:2;s:2:"qe";i:2;}]]></value>
+	</setting>
+	<setting varname="showforumbutton">
+		<value>1</value>
+	</setting>
+	<setting varname="vb_antispam_type">
+		<value>0</value>
+	</setting>
+	<setting varname="route_requestvar">
+		<value>r</value>
+	</setting>
+	<setting varname="bbactive">
+		<value>1</value>
+	</setting>
+	<setting varname="bbtitle">
+		<value>Sparkrelief</value>
+	</setting>
+	<setting varname="keywords">
+		<value>vbulletin,forum,bbs,discussion,bulletin board</value>
+	</setting>
+	<setting varname="enablefacebookconnect">
+		<value>0</value>
+	</setting>
+	<setting varname="yestoday">
+		<value>1</value>
+	</setting>
+	<setting varname="cookietimeout">
+		<value>60</value>
+	</setting>
+	<setting varname="allowphpinfo">
+	</setting>
+	<setting varname="enablecensor">
+		<value>1</value>
+	</setting>
+	<setting varname="enableemail">
+		<value>1</value>
+	</setting>
+	<setting varname="allowregistration">
+		<value>1</value>
+	</setting>
+	<setting varname="uiforumid">
+		<value>0</value>
+	</setting>
+	<setting varname="ctMaxChars">
+		<value>25</value>
+	</setting>
+	<setting varname="usercss_allowed_fonts">
+		<value><![CDATA[arial|Arial, Helvetica, sans-serif
+times_new_roman|'Times New Roman', Times, serif
+courier_new|'Courier New', Courier, monospace
+georgia|Georgia, 'Times New Roman', Times, serif
+verdana|Verdana, Arial, Helvetica, sans-serif
+tahoma|Tahoma, Verdana, Arial, Helvetica, sans-serif
+geneva|Geneva, Arial, Helvetica, sans-serif
+trebuchet_ms|'Trebuchet MS', Arial, Helvetica, sans-serif
+comic_sans_ms|'Comic Sans MS', Arial, Helvetica, sans-serif]]></value>
+	</setting>
+	<setting varname="albums_perpage">
+		<value>10</value>
+	</setting>
+	<setting varname="sg_name_maxchars">
+		<value>100</value>
+	</setting>
+	<setting varname="avatarenabled">
+		<value>1</value>
+	</setting>
+	<setting varname="reputationenable">
+	</setting>
+	<setting varname="unallowvbcode">
+		<value>1</value>
+	</setting>
+	<setting varname="enablememberlist">
+		<value>1</value>
+	</setting>
+	<setting varname="enablebanning">
+		<value>1</value>
+	</setting>
+	<setting varname="allowedbbcodes">
+		<value>1023</value>
+	</setting>
+	<setting varname="quickreply">
+		<value>1</value>
+	</setting>
+	<setting varname="attachtotalspace">
+		<value>0</value>
+	</setting>
+	<setting varname="maxpolloptions">
+		<value>10</value>
+	</setting>
+	<setting varname="enablesearches">
+		<value>1</value>
+	</setting>
+	<setting varname="threadtagging">
+		<value>1</value>
+	</setting>
+	<setting varname="displayloggedin">
+		<value>1</value>
+	</setting>
+	<setting varname="forumhomedepth">
+		<value>2</value>
+	</setting>
+	<setting varname="showforumusers">
+		<value>0</value>
+	</setting>
+	<setting varname="enablesidebar">
+		<value>0</value>
+	</setting>
+	<setting varname="showthreadusers">
+	</setting>
+	<setting varname="allowthreadedmode">
+		<value>1</value>
+	</setting>
+	<setting varname="enablepms">
+		<value>1</value>
+	</setting>
+	<setting varname="WOLenable">
+		<value>1</value>
+	</setting>
+	<setting varname="archiveenabled">
+		<value>1</value>
+	</setting>
+	<setting varname="cpstylefolder">
+		<value>vBulletin_3_Silver</value>
+	</setting>
+	<setting varname="externaljs">
+	</setting>
+	<setting varname="errorlogdatabase">
+	</setting>
+	<setting varname="enablehooks">
+		<value>1</value>
+	</setting>
+	<setting varname="paymentemail">
+	</setting>
+	<setting varname="vb_antispam_key">
+	</setting>
+	<setting varname="sitemap_cron_enable">
+		<value>0</value>
+	</setting>
+	<setting varname="enableapi">
+		<value>0</value>
+	</setting>
+	<setting varname="imagetype">
+		<value>GD</value>
+	</setting>
+	<setting varname="usecoppa">
+		<value>0</value>
+	</setting>
+	<setting varname="uimessage">
+		<value>1</value>
+	</setting>
+	<setting varname="memberlistposts">
+		<value>0</value>
+	</setting>
+	<setting varname="maxpolllength">
+		<value>100</value>
+	</setting>
+	<setting varname="searchqueueupdates">
+	</setting>
+	<setting varname="forumdisplaydepth">
+		<value>2</value>
+	</setting>
+	<setting varname="archive_threadtype">
+		<value>1</value>
+	</setting>
+	<setting varname="sitemap_cron_frequency">
+		<value>14</value>
+	</setting>
+	<setting varname="checkcoppa">
+		<value>1</value>
+	</setting>
+	<setting varname="hv_type">
+		<value>Image</value>
+	</setting>
+	<setting varname="bbclosedreason">
+		<value><![CDATA[<p>Sorry, the board is unavailable at the moment while we are testing some functionality.</p>
+<p>We will be back soon...</p>]]></value>
+	</setting>
+	<setting varname="bburl">
+		<value>http://japan.sparkrelief.org/forums</value>
+	</setting>
+	<setting varname="description">
+		<value>This is a discussion forum powered by vBulletin. To find out about vBulletin, go to http://www.vbulletin.com/ .</value>
+	</setting>
+	<setting varname="facebookappid">
+	</setting>
+	<setting varname="timeoffset">
+	</setting>
+	<setting varname="censorchar">
+		<value>*</value>
+	</setting>
+	<setting varname="displayemails">
+		<value>1</value>
+	</setting>
+	<setting varname="moderatenewmembers">
+	</setting>
+	<setting varname="rpforumid">
+		<value>0</value>
+	</setting>
+	<setting varname="ctCensorWords">
+		<value>admin forum moderator vbulletin leader</value>
+	</setting>
+	<setting varname="usercss_allowed_font_sizes">
+		<value>xx-small|xxsmall
+x-small|xsmall
+small|small
+medium|medium
+large|large
+x-large|xlarge
+xx-large|xxlarge</value>
+	</setting>
+	<setting varname="album_pictures_perpage">
+		<value>25</value>
+	</setting>
+	<setting varname="profile_album_amount">
+		<value>2</value>
+	</setting>
+	<setting varname="vm_maxchars">
+		<value>1000</value>
+	</setting>
+	<setting varname="social_moderation">
+		<value>0</value>
+	</setting>
+	<setting varname="unallowsmilies">
+		<value>1</value>
+	</setting>
+	<setting varname="memberlistfields">
+		<value>216</value>
+	</setting>
+	<setting varname="banip">
+	</setting>
+	<setting varname="codemaxlines">
+		<value>30</value>
+	</setting>
+	<setting varname="quickedit">
+		<value>1</value>
+	</setting>
+	<setting varname="attachlimit">
+		<value>5</value>
+	</setting>
+	<setting varname="updatelastpost">
+	</setting>
+	<setting varname="searchfloodtime">
+		<value>0</value>
+	</setting>
+	<setting varname="tagminlen">
+		<value>3</value>
+	</setting>
+	<setting varname="showbirthdays">
+		<value>1</value>
+	</setting>
+	<setting varname="subforumdepth">
+		<value>0</value>
+	</setting>
+	<setting varname="maxthreads">
+		<value>20</value>
+	</setting>
+	<setting varname="sidebarposition">
+		<value>1</value>
+	</setting>
+	<setting varname="maxposts">
+		<value>10</value>
+	</setting>
+	<setting varname="threadedmode">
+	</setting>
+	<setting varname="checknewpm">
+		<value>1</value>
+	</setting>
+	<setting varname="WOLrefresh">
+		<value>60</value>
+	</setting>
+	<setting varname="archive_threadsperpage">
+		<value>250</value>
+	</setting>
+	<setting varname="timeoutcontrolpanel">
+	</setting>
+	<setting varname="externalrss">
+	</setting>
+	<setting varname="errorlogsecurity">
+	</setting>
+	<setting varname="vb_antispam_posts">
+		<value>0</value>
+	</setting>
+	<setting varname="sitemap_priority">
+		<value>0.5</value>
+	</setting>
+	<setting varname="enableapilog">
+		<value>0</value>
+	</setting>
+	<setting varname="hv_recaptcha_publickey">
+	</setting>
+	<setting varname="bburl_basepath">
+		<value>1</value>
+	</setting>
+	<setting varname="vbforum_url">
+	</setting>
+	<setting varname="attachboxcount">
+		<value>1</value>
+	</setting>
+	<setting varname="hv_recaptcha_privatekey">
+	</setting>
+	<setting varname="attachurlcount">
+		<value>1</value>
+	</setting>
+	<setting varname="hv_recaptcha_theme">
+		<value>white</value>
+	</setting>
+	<setting varname="dstonoff">
+	</setting>
+	<setting varname="albums_pictures_moderation">
+		<value>0</value>
+	</setting>
+	<setting varname="reputationdefault">
+		<value>10</value>
+	</setting>
+	<setting varname="multiquote">
+		<value>1</value>
+	</setting>
+	<setting varname="allowattachdel">
+		<value>1</value>
+	</setting>
+	<setting varname="showforumdescription">
+		<value>1</value>
+	</setting>
+	<setting varname="mqlimit">
+		<value>0</value>
+	</setting>
+	<setting varname="reputationundefined">
+		<value>is off the scale</value>
+	</setting>
+	<setting varname="allowclosedattachdel">
+	</setting>
+	<setting varname="rsspodcast">
+		<value>1</value>
+	</setting>
+	<setting varname="bbmenu">
+		<value>0</value>
+	</setting>
+	<setting varname="regimagetype">
+		<value>GDttf</value>
+	</setting>
+	<setting varname="regimageoption">
+		<value>15</value>
+	</setting>
+	<setting varname="hometitle">
+		<value>Sparkrelief</value>
+	</setting>
+	<setting varname="facebooksecret">
+	</setting>
+	<setting varname="dateformat">
+		<value>m-d-Y</value>
+	</setting>
+	<setting varname="cachemaxage">
+		<value>7</value>
+	</setting>
+	<setting varname="censorwords">
+	</setting>
+	<setting varname="secureemail">
+		<value>1</value>
+	</setting>
+	<setting varname="welcomemail">
+		<value>1</value>
+	</setting>
+	<setting varname="rpuserid">
+	</setting>
+	<setting varname="ctCensorMod">
+		<value>1</value>
+	</setting>
+	<setting varname="minifriends_amount">
+		<value>6</value>
+	</setting>
+	<setting varname="usercss_allowed_border_widths">
+		<value>small|1px
+medium|2px
+large|3px</value>
+	</setting>
+	<setting varname="socnet_groups_msg_enabled">
+		<value>1</value>
+	</setting>
+	<setting varname="numavatarsperpage">
+		<value>10</value>
+	</setting>
+	<setting varname="showuserrates">
+		<value>5</value>
+	</setting>
+	<setting varname="unallowimg">
+		<value>1</value>
+	</setting>
+	<setting varname="memberlistperpage">
+		<value>30</value>
+	</setting>
+	<setting varname="banemail">
+	</setting>
+	<setting varname="postminchars">
+		<value>10</value>
+	</setting>
+	<setting varname="allowduplicates">
+		<value>1</value>
+	</setting>
+	<setting varname="searchperpage">
+		<value>25</value>
+	</setting>
+	<setting varname="tagmaxlen">
+		<value>25</value>
+	</setting>
+	<setting varname="showprivateforums">
+		<value>0</value>
+	</setting>
+	<setting varname="showstickies">
+		<value>1</value>
+	</setting>
+	<setting varname="usermaxposts">
+		<value>5,10,20,30,40</value>
+	</setting>
+	<setting varname="threaded_listdepth">
+		<value>5</value>
+	</setting>
+	<setting varname="WOLguests">
+		<value>1</value>
+	</setting>
+	<setting varname="archive_postsperpage">
+		<value>250</value>
+	</setting>
+	<setting varname="adminquickstats">
+	</setting>
+	<setting varname="externalxml">
+	</setting>
+	<setting varname="errorlogphp">
+	</setting>
+	<setting varname="postlog_maxage">
+		<value>7</value>
+	</setting>
+	<setting varname="sitemap_se_submit">
+		<value>31</value>
+	</setting>
+	<setting varname="apilogpostparam">
+		<value>0</value>
+	</setting>
+	<setting varname="aggressiveemailban">
+		<value>0</value>
+	</setting>
+	<setting varname="postmaxchars">
+		<value>10000</value>
+	</setting>
+	<setting varname="tagbadwords">
+	</setting>
+	<setting varname="titlemaxchars">
+		<value>85</value>
+	</setting>
+	<setting varname="taggoodwords">
+	</setting>
+	<setting varname="welcomepm">
+	</setting>
+	<setting varname="ignorequotechars">
+		<value>1</value>
+	</setting>
+	<setting varname="attachresize">
+		<value>1</value>
+	</setting>
+	<setting varname="tagdelimiter">
+	</setting>
+	<setting varname="errorlogemail">
+	</setting>
+	<setting varname="quotetitle">
+	</setting>
+	<setting varname="homeurl">
+		<value>http://japan.sparkrelief.org</value>
+	</setting>
+	<setting varname="useforumjump">
+		<value>1</value>
+	</setting>
+	<setting varname="facebookusergroupid">
+	</setting>
+	<setting varname="magickpath">
+	</setting>
+	<setting varname="timeformat">
+		<value>h:i A</value>
+	</setting>
+	<setting varname="threadviewslive">
+	</setting>
+	<setting varname="blankasciistrip">
+		<value>160 173 u8205 u8204 u8237 u8238</value>
+	</setting>
+	<setting varname="emailfloodtime">
+		<value>60</value>
+	</setting>
+	<setting varname="newuseremail">
+	</setting>
+	<setting varname="rpemail">
+		<value>1</value>
+	</setting>
+	<setting varname="friends_per_page">
+		<value>10</value>
+	</setting>
+	<setting varname="usercss_allowed_padding">
+		<value>none|0px
+tiny|1px
+small|2px
+medium|3px
+large|6px
+huge|10px
+gargantuan|20px</value>
+	</setting>
+	<setting varname="album_captionpreviewlen">
+		<value>150</value>
+	</setting>
+	<setting varname="vm_perpage">
+		<value>10</value>
+	</setting>
+	<setting varname="gm_maxchars">
+		<value>1000</value>
+	</setting>
+	<setting varname="profilepicenabled">
+		<value>1</value>
+	</setting>
+	<setting varname="adminpower">
+		<value>10</value>
+	</setting>
+	<setting varname="unallowhtml">
+	</setting>
+	<setting varname="allowkeepbannedemail">
+		<value>1</value>
+	</setting>
+	<setting varname="smtotal">
+		<value>15</value>
+	</setting>
+	<setting varname="viewattachedimages">
+		<value>1</value>
+	</setting>
+	<setting varname="maxresults">
+		<value>500</value>
+	</setting>
+	<setting varname="tagmaxthread">
+		<value>25</value>
+	</setting>
+	<setting varname="showevents">
+		<value>1</value>
+	</setting>
+	<setting varname="showlocks">
+	</setting>
+	<setting varname="threaded_maxcache">
+		<value>40</value>
+	</setting>
+	<setting varname="pmmaxchars">
+		<value>5000</value>
+	</setting>
+	<setting varname="WOLresolve">
+	</setting>
+	<setting varname="cp_collapse_forums">
+	</setting>
+	<setting varname="externalcutoff">
+		<value>30</value>
+	</setting>
+	<setting varname="errorlogmaxsize">
+		<value>1048576</value>
+	</setting>
+	<setting varname="mobilehomemaxitems">
+		<value>10</value>
+	</setting>
+	<setting varname="attachmentviewslive">
+	</setting>
+	<setting varname="showholidays">
+		<value>1</value>
+	</setting>
+	<setting varname="goodwords">
+		<value>vb vbb php sql</value>
+	</setting>
+	<setting varname="showeventtype">
+	</setting>
+	<setting varname="contactuslink">
+		<value>sendmessage.php</value>
+	</setting>
+	<setting varname="pagenavpages">
+		<value>3</value>
+	</setting>
+	<setting varname="registereddateformat">
+		<value>M Y</value>
+	</setting>
+	<setting varname="allowmultiregs">
+	</setting>
+	<setting varname="profilemaxvisitors">
+		<value>10</value>
+	</setting>
+	<setting varname="vm_maxperpage">
+		<value>50</value>
+	</setting>
+	<setting varname="sg_perpage">
+		<value>10</value>
+	</setting>
+	<setting varname="usememberlistadvsearch">
+		<value>1</value>
+	</setting>
+	<setting varname="globalignore">
+	</setting>
+	<setting varname="maximages">
+		<value>4</value>
+	</setting>
+	<setting varname="smcolumns">
+		<value>3</value>
+	</setting>
+	<setting varname="attachthumbs">
+		<value>1</value>
+	</setting>
+	<setting varname="minsearchlength">
+		<value>4</value>
+	</setting>
+	<setting varname="tagmaxstarter">
+		<value>5</value>
+	</setting>
+	<setting varname="lastthreadchars">
+		<value>30</value>
+	</setting>
+	<setting varname="showdeficon">
+	</setting>
+	<setting varname="threaded_trimtitle">
+		<value>30</value>
+	</setting>
+	<setting varname="pmfloodtime">
+		<value>60</value>
+	</setting>
+	<setting varname="enablespiders">
+	</setting>
+	<setting varname="cp_usereditcolumns">
+		<value>2</value>
+	</setting>
+	<setting varname="externalcache">
+		<value>60</value>
+	</setting>
+	<setting varname="disableerroremail">
+	</setting>
+	<setting varname="mobilehomethreaddatecut">
+		<value>30</value>
+	</setting>
+	<setting varname="pmthrottleperiod">
+		<value>0</value>
+	</setting>
+	<setting varname="contactustype">
+		<value>1</value>
+	</setting>
+	<setting varname="mobilestyleid_advanced">
+		<value>0</value>
+	</setting>
+	<setting varname="contactusoptions">
+		<value>Site Feedback
+Registration Problem</value>
+	</setting>
+	<setting varname="pagenavs">
+		<value>10 50 100 500 1000</value>
+	</setting>
+	<setting varname="mobilestyleid_basic">
+		<value>0</value>
+	</setting>
+	<setting varname="pmperpage">
+		<value>50</value>
+	</setting>
+	<setting varname="mobilehomethreadforumids">
+	</setting>
+	<setting varname="contactusother">
+		<value>1</value>
+	</setting>
+	<setting varname="pmmaxperpage">
+		<value>100</value>
+	</setting>
+	<setting varname="webmasteremail">
+		<value>marshall@sparkrelief.org</value>
+	</setting>
+	<setting varname="enableaccess">
+		<value>1</value>
+	</setting>
+	<setting varname="facebookautoregister">
+		<value>0</value>
+	</setting>
+	<setting varname="calformat1">
+		<value>F j, Y</value>
+	</setting>
+	<setting varname="allowchangestyles">
+		<value>1</value>
+	</setting>
+	<setting varname="verifyemail">
+	</setting>
+	<setting varname="profilelastpost">
+	</setting>
+	<setting varname="album_maxpicsperalbum">
+		<value>60</value>
+	</setting>
+	<setting varname="vm_moderation">
+	</setting>
+	<setting varname="sg_maxperpage">
+		<value>50</value>
+	</setting>
+	<setting varname="stopshouting">
+		<value>3</value>
+	</setting>
+	<setting varname="attachthumbssize">
+		<value>100</value>
+	</setting>
+	<setting varname="maxsearchlength">
+		<value>20</value>
+	</setting>
+	<setting varname="tagmaxuser">
+		<value>2</value>
+	</setting>
+	<setting varname="wordwrap">
+		<value>50</value>
+	</setting>
+	<setting varname="externalcount">
+		<value>15</value>
+	</setting>
+	<setting varname="mobilehomeblogdatecut">
+		<value>60</value>
+	</setting>
+	<setting varname="album_recentalbumdays">
+		<value>7</value>
+	</setting>
+	<setting varname="mobilehomeblogcatids">
+	</setting>
+	<setting varname="contactusemail">
+	</setting>
+	<setting varname="facebookfeedimageurl">
+	</setting>
+	<setting varname="pc_enabled">
+		<value>1</value>
+	</setting>
+	<setting varname="thumbquality">
+		<value>75</value>
+	</setting>
+	<setting varname="mobilehomebloguserids">
+	</setting>
+	<setting varname="privacyurl">
+	</setting>
+	<setting varname="fbfeednewthread">
+		<value>0</value>
+	</setting>
+	<setting varname="calformat2">
+		<value>F j</value>
+	</setting>
+	<setting varname="cleargifurl">
+		<value>clear.gif</value>
+	</setting>
+	<setting varname="usemailqueue">
+		<value>1</value>
+	</setting>
+	<setting varname="requireuniqueemail">
+		<value>1</value>
+	</setting>
+	<setting varname="pc_moderation">
+		<value>0</value>
+	</setting>
+	<setting varname="vm_allowed_bbcode">
+		<value>1091</value>
+	</setting>
+	<setting varname="gm_perpage">
+		<value>10</value>
+	</setting>
+	<setting varname="rdpower">
+		<value>365</value>
+	</setting>
+	<setting varname="attachrow">
+		<value>5</value>
+	</setting>
+	<setting varname="allowwildcards">
+		<value>1</value>
+	</setting>
+	<setting varname="tagforcelower">
+		<value>1</value>
+	</setting>
+	<setting varname="activememberdays">
+		<value>30</value>
+	</setting>
+	<setting varname="showmoderatorcolumn">
+	</setting>
+	<setting varname="showdots">
+		<value>1</value>
+	</setting>
+	<setting varname="mobilehomearticledatecut">
+		<value>60</value>
+	</setting>
+	<setting varname="tosurl">
+	</setting>
+	<setting varname="copyrighttext">
+	</setting>
+	<setting varname="fbfeedpostreply">
+		<value>0</value>
+	</setting>
+	<setting varname="logdateformat">
+		<value>H:i, jS M Y</value>
+	</setting>
+	<setting varname="storecssasfile">
+	</setting>
+	<setting varname="emailsendnum">
+		<value>10</value>
+	</setting>
+	<setting varname="minuserlength">
+		<value>3</value>
+	</setting>
+	<setting varname="pc_perpage">
+		<value>10</value>
+	</setting>
+	<setting varname="gm_maxperpage">
+		<value>50</value>
+	</setting>
+	<setting varname="pcpower">
+		<value>1000</value>
+	</setting>
+	<setting varname="thumbcolor">
+		<value>#000000</value>
+	</setting>
+	<setting varname="activememberoptions">
+		<value>3</value>
+	</setting>
+	<setting varname="showprefixlastpost">
+		<value>2</value>
+	</setting>
+	<setting varname="mobilehomearticlecatids">
+	</setting>
+	<setting varname="bounceemail">
+	</setting>
+	<setting varname="sg_maxdescriptionchars">
+		<value>1000</value>
+	</setting>
+	<setting varname="companyname">
+	</setting>
+	<setting varname="fbfeedblogentry">
+		<value>0</value>
+	</setting>
+	<setting varname="usepopups">
+		<value>1</value>
+	</setting>
+	<setting varname="needfromemail">
+	</setting>
+	<setting varname="maxuserlength">
+		<value>25</value>
+	</setting>
+	<setting varname="profileprivacy">
+		<value>1</value>
+	</setting>
+	<setting varname="pc_maxperpage">
+		<value>50</value>
+	</setting>
+	<setting varname="sgd_maxperpage">
+		<value>50</value>
+	</setting>
+	<setting varname="sgd_perpage">
+		<value>10</value>
+	</setting>
+	<setting varname="kppower">
+		<value>100</value>
+	</setting>
+	<setting varname="floodchecktime">
+		<value>30</value>
+	</setting>
+	<setting varname="lightboxenabled">
+		<value>1</value>
+	</setting>
+	<setting varname="mobilehomearticlesectionids">
+	</setting>
+	<setting varname="usebulkheader">
+		<value>0</value>
+	</setting>
+	<setting varname="vbasset_enable">
+		<value>1</value>
+	</setting>
+	<setting varname="utf8encode">
+		<value>0</value>
+	</setting>
+	<setting varname="faxnumber">
+	</setting>
+	<setting varname="fbfeedblogcomment">
+		<value>0</value>
+	</setting>
+	<setting varname="gzipoutput">
+		<value>1</value>
+	</setting>
+	<setting varname="legacypostbit">
+		<value>1</value>
+	</setting>
+	<setting varname="showimicons">
+		<value>1</value>
+	</setting>
+	<setting varname="use_smtp">
+	</setting>
+	<setting varname="illegalusernames">
+	</setting>
+	<setting varname="pc_allowed_bbcode">
+		<value>1091</value>
+	</setting>
+	<setting varname="sg_allow_join_to_view">
+		<value>0</value>
+	</setting>
+	<setting varname="minreputationpost">
+		<value>50</value>
+	</setting>
+	<setting varname="vbasset_perpage">
+		<value>20</value>
+	</setting>
+	<setting varname="showvotes">
+		<value>1</value>
+	</setting>
+	<setting varname="similarthreadsearch">
+	</setting>
+	<setting varname="multimatchscore">
+		<value>15</value>
+	</setting>
+	<setting varname="usehotthreads">
+		<value>1</value>
+	</setting>
+	<setting varname="privallowicons">
+		<value>1</value>
+	</setting>
+	<setting varname="usernameregex">
+	</setting>
+	<setting varname="searchsharing">
+		<value>1</value>
+	</setting>
+	<setting varname="searchimplementation">
+		<value>vBDBSearch_Core</value>
+	</setting>
+	<setting varname="address">
+	</setting>
+	<setting varname="fbfeednewarticle">
+		<value>0</value>
+	</setting>
+	<setting varname="gziplevel">
+		<value>1</value>
+	</setting>
+	<setting varname="loadlimit">
+		<value>0</value>
+	</setting>
+	<setting varname="skypeweb_gfx">
+		<value>1</value>
+	</setting>
+	<setting varname="smtp_host">
+	</setting>
+	<setting varname="softlinebreakchars">
+		<value>90</value>
+	</setting>
+	<setting varname="groups_pictures_moderation">
+		<value>0</value>
+	</setting>
+	<setting varname="socnet_groups_pictures_enabled">
+		<value>1</value>
+	</setting>
+	<setting varname="minreputationcount">
+		<value>10</value>
+	</setting>
+	<setting varname="wysiwyg_smtotal">
+		<value>15</value>
+	</setting>
+	<setting varname="advimagepopup_enable">
+		<value>1</value>
+	</setting>
+	<setting varname="votechange">
+	</setting>
+	<setting varname="similarthreadthreshold">
+		<value>3.5</value>
+	</setting>
+	<setting varname="hotnumberviews">
+		<value>150</value>
+	</setting>
+	<setting varname="privallowbbcode">
+		<value>1</value>
+	</setting>
+	<setting varname="recheckfrequency">
+		<value>60</value>
+	</setting>
+	<setting varname="album_dataloc">
+		<value>db</value>
+	</setting>
+	<setting varname="fbfeedarticlecomment">
+		<value>0</value>
+	</setting>
+	<setting varname="searchenginereferrers">
+		<value>.google.
+.live.
+.msn.
+.yahoo.</value>
+	</setting>
+	<setting varname="smtp_port">
+		<value>25</value>
+	</setting>
+	<setting varname="usereferrer">
+		<value>1</value>
+	</setting>
+	<setting varname="sg_allow_owner_mod_queue">
+		<value>0</value>
+	</setting>
+	<setting varname="maxreputationperday">
+		<value>10</value>
+	</setting>
+	<setting varname="allowbbcode">
+		<value>1</value>
+	</setting>
+	<setting varname="badwords">
+	</setting>
+	<setting varname="hotnumberposts">
+		<value>15</value>
+	</setting>
+	<setting varname="privallowsmilies">
+		<value>1</value>
+	</setting>
+	<setting varname="album_picpath">
+	</setting>
+	<setting varname="facebooklikethreads">
+		<value>0</value>
+	</setting>
+	<setting varname="smtp_user">
+	</setting>
+	<setting varname="defaultregoptions">
+		<value>46629513</value>
+	</setting>
+	<setting varname="sg_enable_owner_only_discussions">
+		<value>0</value>
+	</setting>
+	<setting varname="reputationrepeat">
+		<value>20</value>
+	</setting>
+	<setting varname="allowsmilies">
+		<value>1</value>
+	</setting>
+	<setting varname="privallowbbimagecode">
+		<value>1</value>
+	</setting>
+	<setting varname="sitemap_url_perpage">
+		<value>30000</value>
+	</setting>
+	<setting varname="album_thumbpath">
+	</setting>
+	<setting varname="facebooklikeblogentries">
+		<value>0</value>
+	</setting>
+	<setting varname="smtp_pass">
+	</setting>
+	<setting varname="usernamereusedelay">
+		<value>365</value>
+	</setting>
+	<setting varname="sg_allowed_bbcode">
+		<value>1091</value>
+	</setting>
+	<setting varname="allowbbimagecode">
+	</setting>
+	<setting varname="privallowhtml">
+	</setting>
+	<setting varname="album_thumburl">
+	</setting>
+	<setting varname="facebooklikecmsarticles">
+		<value>0</value>
+	</setting>
+	<setting varname="smtp_tls">
+		<value>none</value>
+	</setting>
+	<setting varname="allowhtml">
+	</setting>
+	<setting varname="fb_userfield_biography">
+		<value>field1</value>
+	</setting>
+	<setting varname="sg_allow_delete_empty_group">
+		<value>1</value>
+	</setting>
+	<setting varname="url_nofollow">
+		<value>0</value>
+	</setting>
+	<setting varname="fb_userfield_location">
+		<value>field2</value>
+	</setting>
+	<setting varname="url_nofollow_whitelist">
+	</setting>
+	<setting varname="datescore">
+		<value>15</value>
+	</setting>
+	<setting varname="fb_userfield_interests">
+		<value>field3</value>
+	</setting>
+	<setting varname="bbcode_video_scrape">
+		<value>3</value>
+	</setting>
+	<setting varname="fb_userfield_occupation">
+		<value>field4</value>
+	</setting>
+	<setting varname="addheaders">
+		<value>0</value>
+	</setting>
+	<setting varname="sg_newgroups_count">
+		<value>15</value>
+	</setting>
+	<setting varname="threadtitlescore">
+		<value>5</value>
+	</setting>
+	<setting varname="linktopages">
+		<value>1</value>
+	</setting>
+	<setting varname="safeupload">
+	</setting>
+	<setting varname="sg_category_cloud_size">
+		<value>40</value>
+	</setting>
+	<setting varname="editthreadtitlelimit">
+		<value>5</value>
+	</setting>
+	<setting varname="posttitlescore">
+		<value>5</value>
+	</setting>
+	<setting varname="maxmultipage">
+		<value>3</value>
+	</setting>
+	<setting varname="addpolltimeout">
+		<value>0</value>
+	</setting>
+	<setting varname="nocacheheaders">
+		<value>0</value>
+	</setting>
+	<setting varname="tmppath">
+		<value>/tmp</value>
+	</setting>
+	<setting varname="edittimelimit">
+		<value>0</value>
+	</setting>
+	<setting varname="replyscore">
+		<value>0.10</value>
+	</setting>
+	<setting varname="threadpreview">
+		<value>150</value>
+	</setting>
+	<setting varname="replyfunc">
+		<value>none</value>
+	</setting>
+	<setting varname="useheaderredirect">
+		<value>1</value>
+	</setting>
+	<setting varname="noeditedbytime">
+		<value>2</value>
+	</setting>
+	<setting varname="viewscore">
+		<value>0.01</value>
+	</setting>
+	<setting varname="oneannounce">
+		<value>1</value>
+	</setting>
+	<setting varname="threadvoted">
+	</setting>
+	<setting varname="viewfunc">
+		<value>none</value>
+	</setting>
+	<setting varname="forceie8">
+		<value>0</value>
+	</setting>
+	<setting varname="logip">
+		<value>1</value>
+	</setting>
+	<setting varname="ratescore">
+		<value>0.5</value>
+	</setting>
+	<setting varname="threadsubscribed">
+		<value>1</value>
+	</setting>
+	<setting varname="ratefunc">
+		<value>none</value>
+	</setting>
+	<setting varname="copypostindex">
+		<value>1</value>
+	</setting>
+	<setting varname="showsimilarthreads">
+		<value>1</value>
+	</setting>
+	<setting varname="ipcheck">
+		<value>1</value>
+	</setting>
+	<setting varname="postedithistory">
+		<value>1</value>
+	</setting>
+	<setting varname="remoteyui">
+		<value>0</value>
+	</setting>
+	<setting varname="nocache">
+		<value>0</value>
+	</setting>
+	<setting varname="addtemplatename">
+	</setting>
+	<setting varname="hvcheck">
+		<value>27</value>
+	</setting>
+	<setting varname="ignoremods">
+	</setting>
+	<setting varname="postelements">
+		<value>0</value>
+	</setting>
+	<setting varname="usestrikesystem">
+		<value>1</value>
+	</setting>
+	<setting varname="socialbookmarks">
+		<value>0</value>
+	</setting>
+	<setting varname="forumleaders">
+		<value>1</value>
+	</setting>
+	<setting varname="nextprevlinks">
+		<value>0</value>
+	</setting>
+	<setting varname="allowedreferrers">
+	</setting>
+	<setting varname="threadmarking">
+		<value>0</value>
+	</setting>
+	<setting varname="markinglimit">
+		<value>10</value>
+	</setting>
+	<setting varname="disable_ajax">
+		<value>0</value>
+	</setting>
+	<setting varname="enable_inlinemod_auth">
+		<value>1</value>
+	</setting>
+	<setting varname="tagcloud_tags">
+		<value>70</value>
+	</setting>
+	<setting varname="tagcloud_levels">
+		<value>5</value>
+	</setting>
+	<setting varname="tagcloud_cachetime">
+		<value>30</value>
+	</setting>
+	<setting varname="tagcloud_usagehistory">
+		<value>365</value>
+	</setting>
+	<setting varname="tagcloud_usergroup">
+		<value>2</value>
+	</setting>
+	<setting varname="tagcloud_searchcloud">
+		<value>1</value>
+	</setting>
+	<setting varname="tagcloud_searchhistory">
+		<value>30</value>
+	</setting>
+</settings>
